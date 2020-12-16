@@ -2,7 +2,7 @@
 layout: post
 title: I took an oath!
 cover-img: /assets/img/the_oath.jpg
-thumbnail-img: /assets/img/the_oath.png
+thumbnail-img: /assets/img/the_oath.jpg
 share-img: /assets/img/the_oath.jpg
 comments: true
 ---
