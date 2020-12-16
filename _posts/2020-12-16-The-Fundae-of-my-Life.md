@@ -6,6 +6,8 @@ cover-img: /assets/img/multiple_paths.jpg
 share-img: /assets/img/multiple_paths.jpg
 tags: []
 comments: true
+avatar: false
+readtime: true
 ---
 
 Hi,  
