@@ -1,7 +1,9 @@
 ---
 layout: post
 title: I took an oath!
-# subtitle: Each post also has a subtitle
+cover-img: /assets/img/the_oath.jpg
+thumbnail-img: /assets/img/the_oath.png
+share-img: /assets/img/the_oath.jpg
 comments: true
 ---
 
@@ -27,3 +29,5 @@ As much as I'd like this to be false, it is true indeed. Sadly enough, I never l
 So the things that I have learnt in my ife,
 1. ### Find a purpose, it will be easier for you to adopt more skills and knowledge that way
 2. ### Practice things as much as you can, do not exhaust yourself doing that but also do not fear because you are bad at it, it'll improve with practice, not with ignorance!
+
+Picture credits: Janiere Fernandez from Pexels
