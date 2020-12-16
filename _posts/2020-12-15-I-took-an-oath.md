@@ -26,8 +26,8 @@ But, what I have learnt, is that you find an immense amount of wisdom and knowle
 As much as I'd like this to be false, it is true indeed. Sadly enough, I never liked practicing. During the times of JEE preparation, while people would be aiming to get 100s of questions correct by having enough practice, I was happy to rather just find an elegant, a beautiful solution to just one problem. That thing seems so wonderful and amazing! But no! It's a strict no, whether you are preparing for any examination or learning anything, don't do this. Definitly, thrive for that elegant and beautiful solution but do not compromise on practice! I have suffered due to it very recently and have been suffering due to it. I aim to improve it as well.
 
 
-So the things that I have learnt in my ife,
-1. #### Find a purpose, it will be easier for you to adopt more skills and knowledge that way
-2. #### Practice things as much as you can, do not exhaust yourself doing that but also do not fear because you are bad at it, it'll improve with practice, not with ignorance!
+So the things that I have learnt,
+1. Find a purpose, it will be easier for you to adopt more skills and knowledge that way
+2. Practice things as much as you can, do not exhaust yourself doing that but also do not fear because you are bad at it, it'll improve with practice, not with ignorance!
 
 Picture credits: Janiere Fernandez from Pexels
