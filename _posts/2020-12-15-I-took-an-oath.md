@@ -8,7 +8,7 @@ comments: true
 ---
 
 Hi!
-At the time of bulding the basic blogs of this website, I answered a reason behind it [here](https://vishwaraj2812.github.io/mypage.github.io/aboutme/). But then I ask myself, is it all? Probably not. There are many factors more than this, this definitely, is one of the reasons though! This is an attempt to dug deep into myself to find the reasons.
+At the time of bulding the basic blogs of this website, I answered a reason behind "Why?" [here](https://vishwaraj2812.github.io/mypage.github.io/aboutme/). But then I ask myself, is it all? Probably not. There are many factors more than this, this definitely, is one of the reasons though! This is an attempt to dug deep into myself to find the reasons.
 
 I could never do a thing until I have any reason to do it. I felt amazed seeing poeple learning skills like Web development, App development and more, just to add something 
 to their skillset. I too, by the peer pressure, tried my hands on Web development and Python, in the month of July '20 I guess. I failed miserably. Of all the possibilities, I'd like to attribute it to my nature. I simply could not learn something since I might use it later on, at some point of life.
