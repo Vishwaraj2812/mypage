@@ -11,11 +11,11 @@ readtime: true
 ---
 
 Hi,  
-I'd like to give _a note of caution_, I am only a second-year undergraduate (at the time of writing the first draft, at least). I am 18, am from a mid-sized town. I did not have much of a tale-able experience until I stepped here, at IIT Bombay.
+I'd like to give _a note of caution_, I am only a second-year undergraduate (at the time of writing the first draft, at least). I am 18, am from a mid-sized city. I did not have much of a tale-able experience until I stepped here, at IIT Bombay.
 I have minimal experience (which I tend to believe), and my fundae might not be the best. Please don't blame me if things don't work out for you.
 
-So, the first question I'd ask myself is what my fundae in life are? Is it a collection of all the logic behind each step that I took and proved successful? There's a massive issue in this definition, which not many people see.  
-It is the very definition of "success" no. I am not even talking about the philosophical shit which everyone talks about, i.e., material success/ spirituality and whatnot! I ask, how do you measure success?
+So, the first question I'd ask myself is "What do I call fundae in life?" Is it a collection of all the logic behind each step that I took and proved successful? There's a massive issue in this definition, which not many people see.  
+It is the very definition of "success"? No! I am not even talking about the philosophical shit which everyone talks about, i.e., material success/ spirituality and whatnot! I ask, how do you measure success?
 
 An excellent idea that is useful in engineering, programming, and many more places is to make a simpler model of the problem and use the logic to solve the actual situation. Let us step down a bit; imagine you have a text-book problem, how do you evaluate its success? Perhaps the first idea is if the answer obtained by your solution matches the given answer. Let us dive deep into it.
 
