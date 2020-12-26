@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Funda of my life
+title: The Fundae of my life
 cover-img: /assets/img/multiple_paths.jpg
 # thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/multiple_paths.jpg
@@ -33,7 +33,7 @@ Another issue, the solution might not be the only one. There may be multiple sol
 So, we circle back to the issue,
 ## How do we measure success?
 
-To me, the only way to identify success is to identify and measure (qualitatively/quantitatively) the alternate reality. "What if I had not taken this step? What would the situation be?"
+To me, the only way to identify success is to identify and measure (qualitatively/ quantitatively) the alternate reality. "What if I had not taken this step? What would the situation be?"
 is the question. At most points of your life, this is not possible, only due to the vast number of variables present in human life. You cannot positively say if you would've been worse
 or better-off!
 
