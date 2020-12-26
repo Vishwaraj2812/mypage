@@ -12,7 +12,6 @@ If you are, even by small chance, impressed by the webpage, you must know that t
 Okay now, what else do you need?
 
 ### The boring stuff
-
 I am currently a sophomore undergrad at the [Department of Chemical Engineering, IIT Bombay](https://www.che.iitb.ac.in/), pursuing B. Tech there as my major. I am also pursuing a minor in Management at [SJM School of Management, IIT Bombay](http://www.som.iitb.ac.in/). Had a pretty normal schooling, neither been a nerd, nor been a stud!
 
 ### Why this webpage?
