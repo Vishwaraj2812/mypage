@@ -16,9 +16,11 @@ author: Vishwarajsinh Gohil
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Tips from my side: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  My Interests:
+    - Marketing: "marketing"
+    - Economics and Policy: "epolicy"
+    - Psychology: "psycho"
+    - Engineering?: "engineering"
   Resume: "190020134 - 0.pdf"
   # Author's home: "https://deanattali.com"
 
@@ -26,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Vishwaraj.png"
+avatar: "/assets/img/Vishwarajsinh Gohil.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
