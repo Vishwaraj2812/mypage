@@ -16,11 +16,11 @@ author: Vishwarajsinh Gohil
 
 navbar-links:
   About Me: "aboutme"
-  My Interests:
-    - Marketing: "marketing"
-    - Economics and Policy: "epolicy"
-    - Psychology: "psycho"
-    - Engineering?: "engineering"
+  My Interests: "myinterests"
+    #- Marketing: "marketing"
+    #- Economics and Policy: "epolicy"
+    #- Psychology: "psycho"
+    #- Engineering?: "engineering"
   Resume: "190020134 - 0.pdf"
   # Author's home: "https://deanattali.com"
 
