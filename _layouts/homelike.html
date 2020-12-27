@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.interestposts | default: site.posts %}
+{% assign posts = paginator.interestposts | default: site.interestposts %}
 
 <div class="posts-list">
   {% for post in posts %}
@@ -46,7 +46,7 @@ layout: page
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      # <--- Posted on {{ post.date | date: date_format }} --->
+      Posted on {{ post.date | date: date_format }}
     </p>
 
     {% if thumbnail != "" %}
